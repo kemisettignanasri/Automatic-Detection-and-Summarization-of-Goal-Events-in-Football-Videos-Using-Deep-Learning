@@ -1,4 +1,4 @@
-# Automatic Detection and Summarization of Goal Events in Football Videos Using Deep Learning
+ # Automatic Detection and Summarization of Goal Events in Football Videos Using Deep Learning
 
 ## Overview
 This project presents an automated system for detecting and summarizing key events in football match videos using deep learning and computer vision techniques. The system identifies important events such as **goals and missed shots** by analyzing football movement in video frames and automatically generates highlight clips from long match videos.
